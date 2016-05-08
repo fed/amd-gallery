@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "amd-gallery",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "dependencies": {
     "bootstrap": "^3.3.6",
     "hogan.js": "^3.0.2",
