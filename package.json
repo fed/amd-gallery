@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "amd-gallery",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Random image gallery built using AMD modules, RequireJS and Hogan.js",
   "scripts": {
     "start": "./node_modules/grunt-cli/bin/grunt",
