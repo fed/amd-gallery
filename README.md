@@ -1,4 +1,8 @@
-# RequireJS + Hogan.js Example
+# RequireJS + Hogan.js + The Intern Example
+
+Building a random image gallery using AMD modules:
+
+![amd-gallery](http://i.imgur.com/H7NSmJG.png)
 
 ## Prerequisites
 
