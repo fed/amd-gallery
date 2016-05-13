@@ -2,6 +2,21 @@
   "private": true,
   "name": "amd-gallery",
   "version": "1.0.0",
+  "description": "Random image gallery built using AMD modules, RequireJS and Hogan.js",
+  "scripts": {
+    "start": "./node_modules/grunt-cli/bin/grunt",
+    "build": "./node_modules/grunt-cli/bin/grunt build",
+    "test": "./node_modules/grunt-cli/bin/grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fknussel/amd-gallery.git"
+  },
+  "author": {
+    "name": "Federico Knüssel",
+    "email": "fknussel@gmail.com"
+  },
+  "license": "MIT",
   "dependencies": {
     "bootstrap": "^3.3.6",
     "hogan.js": "^3.0.2",
